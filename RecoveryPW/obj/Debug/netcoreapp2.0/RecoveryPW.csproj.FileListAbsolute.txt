@@ -1,0 +1,12 @@
+c:\users\igor.dorbação\source\repos\RecoveryPW\RecoveryPW\bin\Debug\netcoreapp2.0\RecoveryPW.deps.json
+c:\users\igor.dorbação\source\repos\RecoveryPW\RecoveryPW\bin\Debug\netcoreapp2.0\RecoveryPW.runtimeconfig.json
+c:\users\igor.dorbação\source\repos\RecoveryPW\RecoveryPW\bin\Debug\netcoreapp2.0\RecoveryPW.runtimeconfig.dev.json
+c:\users\igor.dorbação\source\repos\RecoveryPW\RecoveryPW\bin\Debug\netcoreapp2.0\RecoveryPW.dll
+c:\users\igor.dorbação\source\repos\RecoveryPW\RecoveryPW\bin\Debug\netcoreapp2.0\RecoveryPW.pdb
+c:\users\igor.dorbação\source\repos\RecoveryPW\RecoveryPW\obj\Debug\netcoreapp2.0\RecoveryPW.csprojResolveAssemblyReference.cache
+c:\users\igor.dorbação\source\repos\RecoveryPW\RecoveryPW\obj\Debug\netcoreapp2.0\RecoveryPW.csproj.CoreCompileInputs.cache
+c:\users\igor.dorbação\source\repos\RecoveryPW\RecoveryPW\obj\Debug\netcoreapp2.0\RecoveryPW.AssemblyInfoInputs.cache
+c:\users\igor.dorbação\source\repos\RecoveryPW\RecoveryPW\obj\Debug\netcoreapp2.0\RecoveryPW.AssemblyInfo.cs
+c:\users\igor.dorbação\source\repos\RecoveryPW\RecoveryPW\obj\Debug\netcoreapp2.0\RecoveryPW.dll
+c:\users\igor.dorbação\source\repos\RecoveryPW\RecoveryPW\obj\Debug\netcoreapp2.0\RecoveryPW.pdb
+c:\users\igor.dorbação\source\repos\RecoveryPW\RecoveryPW\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs

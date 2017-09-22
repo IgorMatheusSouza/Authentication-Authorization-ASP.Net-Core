@@ -1,0 +1,25 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using RecoveryPW.Models
+
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+
+
+@{
+    ViewData["Title"] = "Teste";
+}
+
+<div class="row">
+    <div class="col-lg-6">
+        <h3>Lista de Emails cadastrados</h3>
+
+            <hr style="height:1px;background:black;"/>
+
+                @foreach (var item in UserManager.Users)
+                {
+                    <h4>@item</h4>
+                }
+    </div>
+
+</div>
+ 
